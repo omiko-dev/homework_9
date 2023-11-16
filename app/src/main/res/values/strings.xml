@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">homework_9</string>
+    <string name="all">All</string>
+    <string name="party">Party</string>
+    <string name="camping">Camping</string>
+    <string name="category1">Category1</string>
+    <string name="category2">Category2</string>
+    <string name="category3">Category3</string>
+    <string name="todo">TODO</string>
+    <string name="belt_suit_blazer">Belt suit blazer</string>
+    <string name="dollar">$</string>
+    <string name="_100">100</string>
+</resources>
